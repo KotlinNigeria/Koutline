@@ -1,13 +1,18 @@
 ##Introduction
+
 • Basic Syntax
 • Idioms
 • Coding Conventions
+
 ##Basics
+
 • Basic Types
 • Packages
 • Control Flow
 • Returns and Jumps
+
 ##Classes and Objects
+
 • Classes and Inheritance
 • Properties and Fields
 • Interfaces
@@ -20,10 +25,14 @@
 • Objects
 • Delegation
 • Delegated Properties
+
 ##Functions and Lambdas
+
 •Functions
 •Lambdas•Inline Functions
+
 ##Other
+
 •Destructuring Declarations
 •Collections
 •Ranges
@@ -37,6 +46,8 @@
 •Reflection
 •Type-Safe Builders
 •Dynamic Type
+
 ##Interop
+
 •Calling Java from Kotlin
 •Calling Kotlin from Java
