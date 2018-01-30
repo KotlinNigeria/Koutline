@@ -42,7 +42,7 @@
 
 • Delegated Properties
 
-##Functions and Lambdas
+## Functions and Lambdas
 
 •Functions
 
